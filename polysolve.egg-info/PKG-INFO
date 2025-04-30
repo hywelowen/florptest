@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: polysolve
+Version: 0.1
+Author-email: Hywel Owen <hywel.owen@stfc.ac.uk>
+License: BSD-3-Clause
+Project-URL: Homepage, https://github.com/hywelowen/florptest
+Project-URL: Repository, https://github.com/hywelowen/florptest.git
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Dynamic: license-file
